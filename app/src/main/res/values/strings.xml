@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Worcipe2.0</string>
+    <string name="home">Home</string>
+    <string name="traveling">Traveling</string>
+    <string name="www_taimoorsikander_com">www.taimoorsikander.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="otp_code_text">Code</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter One Time Password sent on Your Number</string>
+</resources>
